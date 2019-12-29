@@ -1,0 +1,79 @@
+For:
+
+1> Version control
+Take care of the history of project.
+2> Collaboration
+Multiple people same project.
+
+#Git vs GitHub
+
+Git is the actual version control system, made by linus trovalds.
+
+GitHub is a webservice, it runs the Git in the background.
+
+both are completely different things.
+
+#Repository:
+Alias of project, group of files
+
+#Commit -> save
+Going to save the changes
+
+Commit --> Hash 
+
+#Hash 
+The crazy line of characters, that is the unique identifier for that change.
+
+#########BRANCHES#############################
+
+File -(commit)--NewFile -(commit)-->Newfile2 
+
+One can branch this to multiple branches..
+
+Lets say one wants branch to go back to the master, then how does one do that,
+
+#Pull request 
+Request to admin to pull the changes to the master branchi.
+
+###########FORKING#####
+!Very Important
+Copying and making an entire new instance of the repo, exact replica with the whole history.
+
+Again one can use the pull request to change the original repo.
+
+1> Github way:just fork it.Make the changes. Request for pull.
+
+
+
+
+
+#############ISSUES(only for GitHub)##############
+#Bugs
+#problems
+!!NOT CODE 
+#questions etc
+
+use styling markdown.
+
+All issues have id number that can be used when closing that issue.
+use the word "fixes" for direct issue closing.
+,every single commit has special identifier.
+
+You can use the whole hash code in the text submission as a hyperlink to the 
+original issue.
+
+##############GettingINTO THE COMMAND LINE###################
+
+Unlike a folder on the server in the GitHub, one needs folder on the local machine
+for coding with git.
+
+# Cloning -> Downloading the repo to your local system.
+
+one github save hit leads to change along with commit not with the git.
+
+# pushing is the act of sending data to github
+# pull is vice-versa
+
+GitHub is now "remote"
+
+#####GIT init and add ########
